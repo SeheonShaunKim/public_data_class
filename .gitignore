@@ -1,2 +1,2 @@
-#ignore .passwd file
-*.password
+.DS_Store
+test.passwd
